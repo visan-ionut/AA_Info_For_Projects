@@ -15,3 +15,21 @@ only the essentials for observing and analyzing the projects. For more
 details, translations, or clarification, you can send me a message via
 email (ionut.visan2604@gmail.com) or through the social networks
 mentioned on the main profile page.
+
+Projects:
+AES_ADD_Decrypt_Image
+AR_Mirror
+Chess_Engine 
+Classification_And_Sound_Detection
+Client_Server_TCP_UDP
+Cryptanalysis_Of_TS-Hash
+Humidity_Device
+LIME_Low_Light_Image_Enhancement
+Memory_Allocator
+Mini_libc
+Movie_and_TV_Show_Recommendation_System
+Music_Playlist_Manager
+Optimizing_Matrix_Multiplication
+Predictive_Analysis_Of_Online_Shopping_Behavior
+Rubik_Cube
+Supermarket_Simulation
