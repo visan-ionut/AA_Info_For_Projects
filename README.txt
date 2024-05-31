@@ -29,6 +29,9 @@ Memory_Allocator
 Mini_libc
 Movie_and_TV_Show_Recommendation_System
 Music_Playlist_Manager
+Synchronizing_Statistics
+CUDA_Mining
+Matrix_Optimization
 Optimizing_Matrix_Multiplication
 Predictive_Analysis_Of_Online_Shopping_Behavior
 Rubik_Cube
