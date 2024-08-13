@@ -38,7 +38,7 @@ Projects:
 19. Supermarket_Simulation
 20. Remove_Watermarks
 21. Predictive_Analytics_Patients
-22. Complex_RC_Vehicle_Estimation
+22. Complex_RC_Vehicle_Orientation
 23. Hotel_Booking_Cancellation_Prediciton
 24. Hotel_Info_Extraction_With_Image_Classifier 
 25. Titanic_Challege_Top_Solution
