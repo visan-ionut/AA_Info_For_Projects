@@ -42,3 +42,4 @@ Projects:
 23. Hotel_Booking_Cancellation_Prediciton
 24. Hotel_Info_Extraction_With_Image_Classifier 
 25. Titanic_Challege_Top_Solution
+26. Computer_Vision_in_your_Voice
