@@ -43,3 +43,8 @@ Projects:
 24. Hotel_Info_Extraction_With_Image_Classifier 
 25. Titanic_Challege_Top_Solution
 26. Computer_Vision_in_your_Voice
+27. White_Point_Balancing_and_Human_Skin_Segmentation
+28. Eigenfaces_For_Recognition_PCA
+29. CNN_Study
+30. RNN_Study
+31. Transformer_Study 
